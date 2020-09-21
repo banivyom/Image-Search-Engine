@@ -1,0 +1,6 @@
+keras
+numpy
+pickle-mixin
+opencv-contrib-python
+flask
+scipy
